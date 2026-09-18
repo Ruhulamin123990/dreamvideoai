@@ -5283,7 +5283,6 @@ window.rewardAdCompleted = async function(){
 
 };
 
-
 /* INITIAL */
 
 renderBadgeFeatures();
